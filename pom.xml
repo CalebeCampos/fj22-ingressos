@@ -151,4 +151,11 @@
         </plugins>
     </build>
 
+	<developers>
+		<developer>
+			<name>Calebe Campos</name>
+			<email>calebe.campos@caelum.com.br</email>
+		</developer>
+	</developers>
+
 </project>
